@@ -32,6 +32,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/dribble-dreams-t-shirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/purple-camper-t-shirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/wilson-womens-basketball/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/picture-with-mayor-krantz/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
