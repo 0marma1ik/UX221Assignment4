@@ -57,6 +57,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/white-camper-t-shirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
