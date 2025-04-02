@@ -9,3 +9,5 @@ Stack trace:
 #4 [internal function]: WP_Fatal_Error_Handler->handle()
 #5 {main}
   thrown in /workspaces/UX221Assignment4/.wordpress/wp-includes/pluggable.php on line 408
+[02-Apr-2025 00:06:26 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[02-Apr-2025 00:15:19 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
