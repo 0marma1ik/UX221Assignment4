@@ -17,6 +17,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/girls-only-programages-6-13/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/all-gender-boys-programages-6-13/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
